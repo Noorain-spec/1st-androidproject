@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="music">Music</string>
+    <string name="more_songs">more songs</string>
+    <string name="rate_us">rate us</string>
+    <string name="get_on">Get On</string>
+    <string name="rate">Rate</string>
+    <string name="submit">Submit</string>
+    <string name="thank_you_for_rating_us">THANK YOU FOR RATING US.</string>
+    <string name="search">Search</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="loop">Loop</string>
+    <string name="songs">Songs</string>
+    <string name="Ek_Galti">Ek Galti (Shivai) (Sad Song)-(MyMp3Singer.com).mp3</string>
+    <string name="Main_Dhoondne_Ko_Zamaane_Mein">Main Dhoondne Ko Zamaane Mein - DownloadMing.SE.mp3</string>
+    <string name="Tu_Jo_Mila">Tu Jo Mila [DJMaza.Info].mp3</string>
+
+    <string-array name="Music_List">
+        <item>@string/Main_Dhoondne_Ko_Zamaane_Mein</item>
+        <item>@string/Tu_Jo_Mila</item>
+        <item>@string/Ek_Galti</item>
+    </string-array>
+    <string name="message">playing</string>
+
+</resources>
